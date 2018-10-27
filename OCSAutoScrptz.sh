@@ -20,9 +20,9 @@ fi
 vps="vps";
 
 if [[ $vps = "vps" ]]; then
-	source="https://raw.githubusercontent.com/benzhacker/vpn/VPS/master"
+	source="https://raw.githubusercontent.com/benzhacker/vpn/master"
 else
-	source="https://raw.githubusercontent.com/benzhacker/vpn/VPS/master"
+	source="https://raw.githubusercontent.com/benzhacker/vpn/master"
 fi
 
 # go to root
